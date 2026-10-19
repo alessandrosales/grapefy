@@ -343,9 +343,43 @@ if (productivityChartContainer) {
   chartObserver.observe(productivityChartContainer);
 }
 
+const cookieBanner = document.querySelector('.cookie-banner');
+const cookieConsentKey = 'grapefy-cookie-consent';
+
+if (cookieBanner) {
+  try {
+    const savedConsent = window.localStorage.getItem(cookieConsentKey);
+    if (!savedConsent) cookieBanner.hidden = false;
+    else document.documentElement.dataset.cookieConsent = savedConsent;
+  } catch {
+    cookieBanner.hidden = false;
+  }
+
+  cookieBanner.querySelectorAll('[data-cookie-consent]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const consent = button.dataset.cookieConsent;
+      try { window.localStorage.setItem(cookieConsentKey, consent); } catch {}
+      document.documentElement.dataset.cookieConsent = consent;
+      cookieBanner.hidden = true;
+    });
+  });
+}
+
 const form = document.querySelector('.lead-form');
 form.addEventListener('submit', (event) => {
   event.preventDefault();
+  const data = new FormData(form);
+  const message = [
+    'Olá! Conheci a Grapefy e quero montar uma equipe autônoma de IA para minha empresa.',
+    '',
+    `*Nome:* ${data.get('nome')}`,
+    `*Empresa:* ${data.get('empresa')}`,
+    `*E-mail:* ${data.get('email')}`,
+    `*Área de interesse:* ${data.get('area')}`,
+    `*Necessidade principal:* ${data.get('necessidade')}`
+  ].join('\n');
+  const whatsappUrl = `https://wa.me/5585982395079?text=${encodeURIComponent(message)}`;
   const status = form.querySelector('.form-status');
-  status.textContent = 'O recebimento do formulário precisa ser conectado ao canal de atendimento antes da publicação.';
+  status.textContent = 'Abrindo o WhatsApp para enviar sua solicitação.';
+  window.open(whatsappUrl, '_blank', 'noopener');
 });
