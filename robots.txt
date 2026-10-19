@@ -1,0 +1,28 @@
+# Grapefy — crawler access policy
+# Allow search engines and AI search/citation crawlers to access public content.
+User-agent: *
+Allow: /
+
+# AI search and citation crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+# Add the absolute sitemap URL here when the production domain is defined.

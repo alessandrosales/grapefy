@@ -1,0 +1,31 @@
+# Grapefy
+
+> A Grapefy prepara equipes autônomas de inteligência artificial para empresas. A solução combina ambiente preparado, agentes especializados, implantação orientada, suporte e manutenção.
+
+## Oferta principal
+
+- Equipes autônomas de IA personalizadas para objetivos e processos empresariais.
+- Implantação de ambientes e agentes especializados em desenvolvimento, administrativo, financeiro, marketing, jurídico e suporte.
+- Operação com regras definidas, ambientes isolados e validação humana quando a atividade exigir.
+- Implantação planejada para até 48 horas, conforme escopo e disponibilidade acordados.
+
+## Como funciona
+
+1. A Grapefy entende as necessidades, regras e objetivos da empresa.
+2. Prepara o ambiente e os agentes para o escopo definido.
+3. Orienta o time sobre o uso e o acompanhamento das entregas.
+4. A empresa passa a interagir com sua equipe de IA.
+
+## Contratação e contato
+
+- Contratação: setup inicial para diagnóstico, preparação e personalização; mensalidade para suporte e manutenção conforme escopo.
+- Preço: proposta personalizada; não há preço público único.
+- Contato comercial: WhatsApp +55 85 98239-5079.
+- Landing page: /index.html
+- Informações de contratação: /pricing.md
+
+## Limites e transparência
+
+- Cenários e diagramas da landing page são ilustrativos quando não identificados como casos verificáveis.
+- Atividades jurídicas, contábeis, financeiras ou sensíveis devem respeitar as regras de autorização e revisão humana aplicáveis.
+- Alegações de segurança, integrações e prazo de implantação dependem do escopo contratado.
