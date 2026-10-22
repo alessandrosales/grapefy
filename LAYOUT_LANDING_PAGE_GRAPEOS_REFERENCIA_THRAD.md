@@ -1,17 +1,17 @@
-# Grapefy — Especificação de layout da landing page
+# grapeos — Especificação de layout da landing page
 
 > **Versão:** 1.0 — 19/10/2026  
 > **Status:** especificação para design e implementação  
 > **Idioma:** pt-BR  
 > **Referência estrutural:** [Thrad](https://www.thrad.ai/?ref=land-book.com)  
-> **Fonte de verdade para identidade:** `IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md`  
-> **Fonte de verdade para textos comerciais:** `COPY_LANDING_PAGE_GRAPEFY.md`
+> **Fonte de verdade para identidade:** `IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md`  
+> **Fonte de verdade para textos comerciais:** `COPY_LANDING_PAGE_GRAPEOS.md`
 
 ## 1. Objetivo
 
-Construir uma landing page **original do Grapefy**, inspirada na **linguagem de composição e narrativa visual** do site Thrad: títulos grandes, hierarquia editorial clara, alternância entre áreas de impacto e demonstrações visuais, módulos que explicam o produto, conteúdo em etapas, provas de credibilidade e chamadas comerciais recorrentes.
+Construir uma landing page **original do grapeos**, inspirada na **linguagem de composição e narrativa visual** do site Thrad: títulos grandes, hierarquia editorial clara, alternância entre áreas de impacto e demonstrações visuais, módulos que explicam o produto, conteúdo em etapas, provas de credibilidade e chamadas comerciais recorrentes.
 
-**Não criar um clone da Thrad.** A referência orienta o **ritmo, a arquitetura de informação e os padrões de apresentação**; marca, elementos gráficos, paleta, tipografia, conteúdo, ilustrações e componentes finais devem ser próprios do Grapefy.
+**Não criar um clone da Thrad.** A referência orienta o **ritmo, a arquitetura de informação e os padrões de apresentação**; marca, elementos gráficos, paleta, tipografia, conteúdo, ilustrações e componentes finais devem ser próprios do grapeos.
 
 **Meta de conversão:** gerar contatos qualificados por dois caminhos:
 
@@ -24,7 +24,7 @@ Construir uma landing page **original do Grapefy**, inspirada na **linguagem de 
 
 A página consultada apresenta, em sequência, estes padrões de arquitetura:
 
-| Padrão observado na referência | Tradução visual para Grapefy |
+| Padrão observado na referência | Tradução visual para grapeos |
 |---|---|
 | Navegação objetiva com ação comercial | Header enxuto com CTA de WhatsApp |
 | Hero de grande impacto com dois CTAs | Promessa de produtividade em tipografia expressiva |
@@ -35,15 +35,15 @@ A página consultada apresenta, em sequência, estes padrões de arquitetura:
 | Depoimentos e atualizações verificáveis | Exemplos ilustrativos claramente sinalizados; cases reais somente quando autorizados |
 | Grande fechamento comercial com CTAs | Convite final para conversar e formulário integrado |
 
-**Nota sobre fidelidade:** a organização e as seções acima foram verificadas no conteúdo público do site. Capturas disponíveis em buscadores mostram versões visuais anteriores da Thrad; por isso, medidas, cores, animações e detalhes *pixel-perfect* desta especificação são **decisões propostas para o Grapefy**, não medições exatas do CSS atual da referência.
+**Nota sobre fidelidade:** a organização e as seções acima foram verificadas no conteúdo público do site. Capturas disponíveis em buscadores mostram versões visuais anteriores da Thrad; por isso, medidas, cores, animações e detalhes *pixel-perfect* desta especificação são **decisões propostas para o grapeos**, não medições exatas do CSS atual da referência.
 
 ### 1.2. Decisões inegociáveis
 
-- **Marca oficial:** usar o arquivo original do logotipo Grapefy, sem redesenhá-lo.
+- **Marca oficial:** usar o arquivo original do logotipo grapeos, sem redesenhá-lo.
 - **Marca visual:** fundo predominantemente branco, grafite em texto, roxo em ações, lilás em apoio.
 - **Tipos:** Poppins para títulos; Inter para textos e interface.
 - **Conceito central:** visualizar **uma equipe de agentes coordenados**, não apenas um chatbot individual.
-- **Conteúdo:** respeitar `COPY_LANDING_PAGE_GRAPEFY.md`; este arquivo especifica onde e como posicionar a copy, não a substitui.
+- **Conteúdo:** respeitar `COPY_LANDING_PAGE_GRAPEOS.md`; este arquivo especifica onde e como posicionar a copy, não a substitui.
 - **Sem números inventados:** não usar percentuais, clientes, testemunhos ou métricas hipotéticas como se fossem reais.
 - **Performance e acessibilidade** fazem parte dos critérios de aceite.
 
@@ -63,7 +63,7 @@ A página consultada apresenta, em sequência, estes padrões de arquitetura:
 
 | Token | HEX | Função |
 |---|---|---|
-| Roxo Grapefy | `#7C4DFF` | Identidade, botões, pontos de atenção |
+| Roxo grapeos | `#7C4DFF` | Identidade, botões, pontos de atenção |
 | Roxo Escuro | `#5B2EE6` | Hover, estados ativos, links de maior contraste |
 | Lilás de Apoio | `#A78BFA` | Conexões, ilustrações, indicadores secundários |
 | Preto Grafite | `#1F1F29` | Títulos e texto principal; bloco de contraste eventual |
@@ -106,7 +106,7 @@ A página consultada apresenta, em sequência, estes padrões de arquitetura:
 - Painéis de demonstração: raio **24–28 px**.
 - Chips/tags: cápsulas com bordas suaves.
 - Sombra muito leve; dar preferência a contorno, espaço e contraste de fundo.
-- Formas circulares do símbolo Grapefy como elemento decorativo em escala ampliada e **baixa opacidade**, sem modificar o logotipo.
+- Formas circulares do símbolo grapeos como elemento decorativo em escala ampliada e **baixa opacidade**, sem modificar o logotipo.
 - Não usar gradiente no arquivo do logo; gradientes muito discretos podem existir apenas como fundo de seção ou ilustração.
 
 ---
@@ -169,7 +169,7 @@ O designer/desenvolvedor deve usar a seguinte ordem inicial; alteração só dep
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
-│ [LOGO GRAPEFY]  Solução  Equipes  Como funciona  Segurança FAQ │
+│ [LOGO grapeos]  Solução  Equipes  Como funciona  Segurança FAQ │
 │                                        [Conversar no WhatsApp]   │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -211,7 +211,7 @@ O designer/desenvolvedor deve usar a seguinte ordem inicial; alteração só dep
 **Elementos:**
 
 - Eyebrow pequeno em roxo escuro ou texto grafite com ponto circular roxo.
-- **H1:** texto aprovado em `COPY_LANDING_PAGE_GRAPEFY.md`; preservar sem abreviações não aprovadas.
+- **H1:** texto aprovado em `COPY_LANDING_PAGE_GRAPEOS.md`; preservar sem abreviações não aprovadas.
 - Subtítulo com largura máxima de `660–750px`.
 - CTA primário: botão roxo preenchido → WhatsApp real.
 - CTA secundário: botão outline/ghost → `#contato`.
@@ -225,7 +225,7 @@ O designer/desenvolvedor deve usar a seguinte ordem inicial; alteração só dep
 
 **Esta é a principal peça visual da landing page.** Deve transmitir a diferença entre um chatbot individual e uma **equipe orquestrada de agentes especializados**.
 
-**Componente recomendado:** `TeamOrchestrationShowcase` — painel composto, exclusivo do Grapefy, em fundo `#F8F6FF` ou branco com borda leve.
+**Componente recomendado:** `TeamOrchestrationShowcase` — painel composto, exclusivo do grapeos, em fundo `#F8F6FF` ou branco com borda leve.
 
 ```text
 ┌────────────────────── SUA EQUIPE DE IA ──────────────────────────────┐
@@ -255,7 +255,7 @@ O designer/desenvolvedor deve usar a seguinte ordem inicial; alteração só dep
 
 ### 5.4. Faixa de confiança sem logos fictícios
 
-Na Thrad há uma sequência de marcas associadas a credibilidade. Para o Grapefy **não reproduzir uma logo wall de empresas não comprovadas**.
+Na Thrad há uma sequência de marcas associadas a credibilidade. Para o grapeos **não reproduzir uma logo wall de empresas não comprovadas**.
 
 **Alternativa apropriada:** uma faixa horizontal de três fatos do serviço, sem números não validados:
 
@@ -282,7 +282,7 @@ Textos alinhados horizontalmente no desktop e empilhados no mobile. Usar separad
 
 ### 5.6. Como os agentes trabalham — `#solucao`
 
-**Adaptação explícita dos quatro módulos da Thrad:** em vez de copiar *Analyze/Rank/Bid/Deploy*, definir **um fluxo original do Grapefy**, coerente com o produto.
+**Adaptação explícita dos quatro módulos da Thrad:** em vez de copiar *Analyze/Rank/Bid/Deploy*, definir **um fluxo original do grapeos**, coerente com o produto.
 
 | Etapa | Nome | Painel visual | Conteúdo |
 |---|---|---|---|
@@ -363,7 +363,7 @@ Textos alinhados horizontalmente no desktop e empilhados no mobile. Usar separad
 
 **Mobile:** linha vertical à esquerda com marcadores; cada passo ocupa a largura disponível.
 
-**CTA após timeline:** `Quero começar com a Grapefy` → WhatsApp.
+**CTA após timeline:** `Quero começar com a grapeos` → WhatsApp.
 
 ### 5.10. Segurança — `#seguranca`
 
@@ -400,7 +400,7 @@ Textos alinhados horizontalmente no desktop e empilhados no mobile. Usar separad
 
 ### 5.12. Exemplos de aplicação — `#exemplos`
 
-A referência Thrad possui depoimentos/cases; o Grapefy ainda não forneceu os detalhes verificáveis dos três casos informados no briefing.
+A referência Thrad possui depoimentos/cases; o grapeos ainda não forneceu os detalhes verificáveis dos três casos informados no briefing.
 
 **Tratar esta seção como `Cenários de aplicação`**, **não como `Depoimentos` nem `Resultados de clientes`**.
 
@@ -429,7 +429,7 @@ Não mostrar valores, `a partir de`, desconto, período de teste nem custos incl
 
 **Layout:** título/introdução à esquerda, accordion de perguntas à direita (desktop). Mobile em uma coluna.
 
-Perguntas devem ser extraídas integralmente de `COPY_LANDING_PAGE_GRAPEFY.md`, sobre: diferença para chatbot, necessidade de conhecimento em IA, autonomia e revisão, prazo, canais, áreas, segurança, substituição de equipe, contratação e personalização.
+Perguntas devem ser extraídas integralmente de `COPY_LANDING_PAGE_GRAPEOS.md`, sobre: diferença para chatbot, necessidade de conhecimento em IA, autonomia e revisão, prazo, canais, áreas, segurança, substituição de equipe, contratação e personalização.
 
 - Primeira pergunta pode vir aberta; restantes fechadas.
 - Ícone `+ / −` ou chevron com rotação discreta.
@@ -438,7 +438,7 @@ Perguntas devem ser extraídas integralmente de `COPY_LANDING_PAGE_GRAPEFY.md`, 
 
 ### 5.15. CTA final + formulário — `#contato`
 
-**Este é o equivalente funcional do fechamento de alto impacto da Thrad, com conversão adaptada ao Grapefy.**
+**Este é o equivalente funcional do fechamento de alto impacto da Thrad, com conversão adaptada ao grapeos.**
 
 **Desktop:** título grande e chamada comercial em uma coluna; na coluna oposta formulário com borda leve e fundo branco. Fundo da seção `#F8F6FF` ou, caso escolhido como **único bloco escuro** da página, grafite com formulário branco. Evitar roxo saturado atrás de campos de formulário.
 
@@ -468,7 +468,7 @@ Perguntas devem ser extraídas integralmente de `COPY_LANDING_PAGE_GRAPEFY.md`, 
 ### 5.16. Rodapé — `#rodape`
 
 - Logo horizontal oficial, se legível no fundo escolhido.
-- Descrição curta do Grapefy.
+- Descrição curta do grapeos.
 - Âncoras importantes da página e `Fale conosco`.
 - Links reais para Política de Privacidade e Termos de Uso (quando publicados).
 - Dados institucionais verificados; sem endereço, CNPJ ou e-mail fictícios.
@@ -571,7 +571,7 @@ Os tokens abaixo complementam o guia de identidade; se algum detalhe divergir do
 
 ## 8. Interações, movimento e comportamento
 
-A referência sugere uma experiência viva e demonstrativa. Para o Grapefy, preferir **movimento funcional** em vez de efeitos exagerados.
+A referência sugere uma experiência viva e demonstrativa. Para o grapeos, preferir **movimento funcional** em vez de efeitos exagerados.
 
 ### 8.1. Permitidos
 
@@ -596,9 +596,9 @@ A referência sugere uma experiência viva e demonstrativa. Para o Grapefy, pref
 
 ### 9.1. Arquivos de referência já fornecidos pelo projeto
 
-- `Logo Grapefy Roxo Minimalista(1).png` — logotipo em versão fornecida.
-- `Logotipo Grapefy em Roxo Minimalista(1).png` — aplicação horizontal da marca.
-- `Guia de Identidade Visual Grapefy(1).png` — prancha com paleta e tipografia.
+- `Logo grapeos Roxo Minimalista(1).png` — logotipo em versão fornecida.
+- `Logotipo grapeos em Roxo Minimalista(1).png` — aplicação horizontal da marca.
+- `Guia de Identidade Visual grapeos(1).png` — prancha com paleta e tipografia.
 - `4e859975-2b41-4b9d-81ba-61ad4a2e5d85.png` — mockups e aplicações da marca.
 
 Estes nomes identificam **materiais recebidos nesta conversa**, não presumem a pasta onde estarão no projeto final.
@@ -609,7 +609,7 @@ Estes nomes identificam **materiais recebidos nesta conversa**, não presumem a 
 2. **Seis visualizações de áreas:** variações de conteúdo para as tabs.
 3. **Quatro miniaturas de fluxo:** objetivo, plano, execução, entrega.
 4. **Diagrama de ambientes isolados:** conceitual e sem promessas técnicas não confirmadas.
-5. **Imagem Open Graph:** composição exclusiva com logo e proposição do Grapefy.
+5. **Imagem Open Graph:** composição exclusiva com logo e proposição do grapeos.
 6. **Favicon:** derivado do símbolo original, exportado em formato apropriado.
 
 **Produção:** preferir SVG elaborado a partir de elementos de UI próprios, CSS e ilustrações vetoriais limpas. Não tentar copiar ilustrações, gráficos, mockups ou assets proprietários da Thrad. Não usar os mockups da marca como prova de interface operacional real.
@@ -631,7 +631,7 @@ Estes nomes identificam **materiais recebidos nesta conversa**, não presumem a 
 
 ### SEO e rastreabilidade
 
-- Título, descrição, H1 e textos devem vir de `COPY_LANDING_PAGE_GRAPEFY.md`.
+- Título, descrição, H1 e textos devem vir de `COPY_LANDING_PAGE_GRAPEOS.md`.
 - Um H1, headings em ordem lógica, conteúdo essencial presente no HTML renderizado.
 - Definir Open Graph e favicon oficiais.
 - Eventos de conversão distintos: `click_whatsapp_hero`, `click_whatsapp_header`, `click_whatsapp_final`, `open_form`, `lead_form_submit_success`.
@@ -705,7 +705,7 @@ Estes nomes identificam **materiais recebidos nesta conversa**, não presumem a 
 
 - [ ] Hero editorial forte, CTA visível e demo protagonista.
 - [ ] Seções têm ritmo visual variado: sem repetição excessiva de grades idênticas.
-- [ ] O visitante entende que o Grapefy fornece **equipes coordenadas de IA**, não apenas chatbot.
+- [ ] O visitante entende que o grapeos fornece **equipes coordenadas de IA**, não apenas chatbot.
 - [ ] Painéis de agentes, tabs e cards mantêm boa leitura no mobile.
 - [ ] Todas as âncoras e ações funcionam.
 
@@ -738,16 +738,16 @@ Estes nomes identificam **materiais recebidos nesta conversa**, não presumem a 
 
 **Hierarquia de fontes (em caso de conflito):**
 
-1. `IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md` — decisões oficiais de marca.
-2. `COPY_LANDING_PAGE_GRAPEFY.md` — mensagem, oferta, promessa, CTAs e conteúdo textual.
+1. `IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md` — decisões oficiais de marca.
+2. `COPY_LANDING_PAGE_GRAPEOS.md` — mensagem, oferta, promessa, CTAs e conteúdo textual.
 3. **Este arquivo** — organização espacial, referências de composição, componentes, interações e responsive design.
 
-**Instrução ao implementador:** “Crie a landing page do Grapefy seguindo o layout e os componentes descritos neste documento, usando a identidade visual oficial e importando os textos aprovados do arquivo de copy. Inspirar-se na hierarquia editorial e na organização modular da Thrad, sem reproduzir seus assets, cores, textos ou design de maneira literal. Usar exemplos apenas como demonstrações claramente sinalizadas. Entregar página responsiva, acessível e com CTAs/formulário funcionais.”
+**Instrução ao implementador:** “Crie a landing page do grapeos seguindo o layout e os componentes descritos neste documento, usando a identidade visual oficial e importando os textos aprovados do arquivo de copy. Inspirar-se na hierarquia editorial e na organização modular da Thrad, sem reproduzir seus assets, cores, textos ou design de maneira literal. Usar exemplos apenas como demonstrações claramente sinalizadas. Entregar página responsiva, acessível e com CTAs/formulário funcionais.”
 
 ### Referências
 
 - Inspiração arquitetural consultada: https://www.thrad.ai/?ref=land-book.com
-- Identidade Grapefy: materiais gráficos fornecidos no briefing + `IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md`.
-- Conteúdo Grapefy: briefing de 20 perguntas + `COPY_LANDING_PAGE_GRAPEFY.md`.
+- Identidade grapeos: materiais gráficos fornecidos no briefing + `IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md`.
+- Conteúdo grapeos: briefing de 20 perguntas + `COPY_LANDING_PAGE_GRAPEOS.md`.
 
-> **Resultado esperado:** uma landing page com aparência própria do Grapefy, estrutura editorial marcante e explicações visuais de times autônomos de IA, orientada a converter visitantes de Google Ads, Instagram, Facebook e tráfego orgânico em conversas comerciais qualificadas.
+> **Resultado esperado:** uma landing page com aparência própria do grapeos, estrutura editorial marcante e explicações visuais de times autônomos de IA, orientada a converter visitantes de Google Ads, Instagram, Facebook e tráfego orgânico em conversas comerciais qualificadas.

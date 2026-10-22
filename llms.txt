@@ -1,6 +1,6 @@
-# Grapefy
+# Grapeos
 
-> A Grapefy prepara equipes autônomas de inteligência artificial para empresas. A solução combina ambiente preparado, agentes especializados, implantação orientada, suporte e manutenção.
+> A Grapeos prepara equipes autônomas de inteligência artificial para empresas. A solução combina ambiente preparado, agentes especializados, implantação orientada, suporte e manutenção.
 
 ## Oferta principal
 
@@ -11,7 +11,7 @@
 
 ## Como funciona
 
-1. A Grapefy entende as necessidades, regras e objetivos da empresa.
+1. A Grapeos entende as necessidades, regras e objetivos da empresa.
 2. Prepara o ambiente e os agentes para o escopo definido.
 3. Orienta o time sobre o uso e o acompanhamento das entregas.
 4. A empresa passa a interagir com sua equipe de IA.

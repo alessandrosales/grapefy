@@ -1,4 +1,4 @@
-# Grapefy — Copy da Landing Page
+# grapeos — Copy da Landing Page
 
 > **Versão:** 1.0 — 19/10/2026  
 > **Idioma:** Português do Brasil  
@@ -9,7 +9,7 @@
 
 ## 1. Navegação
 
-**Logo:** Grapefy  
+**Logo:** grapeos  
 **Links:** Solução · Equipes de IA · Como funciona · Segurança · Dúvidas frequentes  
 **CTA fixo:** **Conversar com um especialista**
 
@@ -21,7 +21,7 @@
 
 # Multiplique a produtividade da sua empresa com equipes autônomas de IA.
 
-Amplie sua capacidade de execução sem aumentar sua equipe humana na mesma proporção. A Grapefy prepara o ambiente, configura agentes especializados e entrega uma equipe de IA pronta para assumir tarefas e rotinas do seu negócio — com segurança, orientação e suporte.
+Amplie sua capacidade de execução sem aumentar sua equipe humana na mesma proporção. A grapeos prepara o ambiente, configura agentes especializados e entrega uma equipe de IA pronta para assumir tarefas e rotinas do seu negócio — com segurança, orientação e suporte.
 
 **CTA principal:** **Quero montar minha equipe de IA**  
 *Destino: conversa comercial no WhatsApp.*
@@ -63,7 +63,7 @@ Enquanto isso, tarefas repetitivas continuam consumindo tempo que poderia ser de
 
 ### Não é apenas conversar com uma IA. É colocar uma equipe de IA para trabalhar.
 
-Com a Grapefy, sua empresa conta com agentes especializados que podem receber objetivos, planejar ações, dividir atividades entre si e executar tarefas com baixa necessidade de intervenção humana.
+Com a grapeos, sua empresa conta com agentes especializados que podem receber objetivos, planejar ações, dividir atividades entre si e executar tarefas com baixa necessidade de intervenção humana.
 
 Em vez de configurar ferramentas, modelos e infraestrutura por conta própria, você recebe um ambiente preparado para a realidade do seu negócio.
 
@@ -84,7 +84,7 @@ Em vez de configurar ferramentas, modelos e infraestrutura por conta própria, v
 
 ### Agentes especializados para diferentes áreas do seu negócio.
 
-A Grapefy prepara equipes conforme as necessidades, regras e objetivos de cada empresa. Veja algumas possibilidades de aplicação:
+A grapeos prepara equipes conforme as necessidades, regras e objetivos de cada empresa. Veja algumas possibilidades de aplicação:
 
 #### Desenvolvimento de software
 
@@ -157,7 +157,7 @@ Mostramos como interagir com sua equipe de IA pelos canais disponíveis e acompa
 **04 — Você começa a utilizar**  
 Em até **48 horas***, a proposta é que você já possa interagir com sua equipe de IA e dar início às atividades previstas.
 
-**CTA:** **Quero começar com a Grapefy**
+**CTA:** **Quero começar com a grapeos**
 
 *O prazo deverá ser apresentado com as condições de escopo e disponibilidade efetivamente praticadas na operação comercial.*
 
@@ -167,24 +167,24 @@ Em até **48 horas***, a proposta é que você já possa interagir com sua equip
 
 ### Sua empresa ganha autonomia sem precisar abrir mão do cuidado com seus dados.
 
-A implantação do Grapefy considera critérios de segurança desde a preparação do ambiente, para que a adoção da IA aconteça com mais confiança.
+A implantação do grapeos considera critérios de segurança desde a preparação do ambiente, para que a adoção da IA aconteça com mais confiança.
 
 - **Ambientes isolados:** servidores preparados com separação entre ambientes de clientes.
 - **Acesso seguro:** mecanismos de acesso adequados ao ambiente configurado.
 - **Integrações seguras:** conexões configuradas com critérios de proteção para os canais e sistemas utilizados.
 - **Regras definidas com você:** durante o diagnóstico, alinhamos necessidades e limites de atuação da equipe.
 
-**Fechamento:** Sua empresa se concentra no uso dos agentes. A Grapefy cuida da preparação e oferece suporte e manutenção ao ambiente contratado.
+**Fechamento:** Sua empresa se concentra no uso dos agentes. A grapeos cuida da preparação e oferece suporte e manutenção ao ambiente contratado.
 
 *Nota de revisão: não acrescentar certificações, conformidade legal certificada, criptografia específica, auditorias, backups ou garantias absolutas de proteção sem comprovação técnica e contratual.*
 
 ---
 
-## 9. Diferenciais — por que Grapefy?
+## 9. Diferenciais — por que grapeos?
 
 ### Toda a capacidade da IA, sem começar pela complexidade técnica.
 
-Você poderia tentar combinar modelos, ferramentas e servidores por conta própria. Com a Grapefy, não precisa começar do zero.
+Você poderia tentar combinar modelos, ferramentas e servidores por conta própria. Com a grapeos, não precisa começar do zero.
 
 **Ambiente preparado para uso**  
 Receba uma estrutura configurada conforme o escopo da sua empresa.
@@ -198,7 +198,7 @@ Tenha apoio para compreender como interagir com os agentes e aproveitar a soluç
 **Suporte e manutenção**  
 Conte com acompanhamento técnico contínuo conforme a contratação.
 
-**Resumo:** Você define o que sua empresa precisa realizar. A Grapefy ajuda a transformar isso em uma equipe de IA operacional.
+**Resumo:** Você define o que sua empresa precisa realizar. A grapeos ajuda a transformar isso em uma equipe de IA operacional.
 
 ---
 
@@ -211,19 +211,19 @@ Conte com acompanhamento técnico contínuo conforme a contratação.
 #### Exemplo 1 — Time de desenvolvimento
 
 **Situação:** uma empresa tem correções e funcionalidades acumuladas, mas sua equipe técnica está no limite.  
-**Como a Grapefy pode atuar:** agentes especializados recebem demandas, organizam etapas, trabalham em implementações e apresentam entregas para revisão técnica.  
+**Como a grapeos pode atuar:** agentes especializados recebem demandas, organizam etapas, trabalham em implementações e apresentam entregas para revisão técnica.  
 **Valor potencial:** ampliar a capacidade de execução e aliviar tarefas recorrentes do time.
 
 #### Exemplo 2 — Rotinas administrativas e financeiras
 
 **Situação:** gestores dedicam parte considerável do dia à organização de informações e à preparação de documentos.  
-**Como a Grapefy pode atuar:** agentes estruturam demandas, reúnem dados permitidos e preparam materiais para conferência.  
+**Como a grapeos pode atuar:** agentes estruturam demandas, reúnem dados permitidos e preparam materiais para conferência.  
 **Valor potencial:** reduzir trabalho operacional e liberar tempo para a gestão.
 
 #### Exemplo 3 — Marketing e pesquisas de mercado
 
 **Situação:** um negócio precisa acompanhar o mercado e manter um fluxo de produção de conteúdo.  
-**Como a Grapefy pode atuar:** agentes ajudam a pesquisar temas, organizar informações e produzir versões iniciais de materiais para aprovação.  
+**Como a grapeos pode atuar:** agentes ajudam a pesquisar temas, organizar informações e produzir versões iniciais de materiais para aprovação.  
 **Valor potencial:** dar mais ritmo à operação de marketing sem depender de uma única pessoa para cada etapa.
 
 **CTA:** **Quero descobrir como aplicar na minha empresa**
@@ -255,13 +255,13 @@ Inclui suporte e manutenção contínuos, conforme o escopo contratado.
 
 ## 12. Perguntas frequentes
 
-### Dúvidas comuns sobre o Grapefy
+### Dúvidas comuns sobre o grapeos
 
-**O Grapefy é um chatbot?**  
+**O grapeos é um chatbot?**  
 Não. A proposta é disponibilizar equipes de agentes de IA capazes de receber objetivos, planejar e executar atividades de forma coordenada, conforme a configuração de cada projeto.
 
 **Preciso entender de inteligência artificial para usar?**  
-Não é necessário configurar toda a tecnologia por conta própria. A Grapefy prepara o ambiente e orienta você sobre como interagir com os agentes.
+Não é necessário configurar toda a tecnologia por conta própria. A grapeos prepara o ambiente e orienta você sobre como interagir com os agentes.
 
 **Os agentes trabalham sozinhos?**  
 Eles são projetados para executar tarefas com baixa intervenção humana. O grau de autonomia depende das atividades, das integrações e das regras definidas para a operação. Ações sensíveis podem precisar de validação humana.
@@ -276,7 +276,7 @@ Inicialmente, pelos canais Telegram, WhatsApp ou clientes personalizados, confor
 Sim. A solução pode ser estruturada para diferentes áreas, como desenvolvimento, administrativo, contabilidade, marketing, jurídico e suporte, conforme a necessidade e a viabilidade de cada implantação.
 
 **Como fica a segurança dos meus dados?**  
-A Grapefy prepara servidores com ambientes isolados, acesso seguro e integrações configuradas com critérios de segurança. Os detalhes aplicáveis ao seu projeto são tratados no diagnóstico e na contratação.
+A grapeos prepara servidores com ambientes isolados, acesso seguro e integrações configuradas com critérios de segurança. Os detalhes aplicáveis ao seu projeto são tratados no diagnóstico e na contratação.
 
 **A IA substitui toda a minha equipe?**  
 O objetivo é ampliar a capacidade produtiva e reduzir a sobrecarga operacional. O papel da equipe humana e as necessidades de revisão dependem da natureza e do risco das atividades.
@@ -296,7 +296,7 @@ Sim. A configuração começa pela compreensão das necessidades, dos objetivos 
 Pare de deixar demandas importantes esperando apenas porque falta tempo ou capacidade operacional. Descubra como agentes especializados podem ajudar sua empresa a produzir mais e crescer com eficiência.
 
 **CTA principal:** **Quero falar com um especialista**  
-*Abre o WhatsApp comercial do Grapefy.*
+*Abre o WhatsApp comercial do grapeos.*
 
 **CTA secundário:** **Prefiro receber um contato**  
 *Leva ao formulário da landing page.*
@@ -320,7 +320,7 @@ Preencha as informações abaixo. Nossa equipe entrará em contato para conhecer
 5. Área de interesse — `Desenvolvimento / Administrativo / Contabilidade e financeiro / Marketing / Jurídico / Suporte / Outra`
 6. Necessidade principal — `O que você gostaria que sua equipe de IA fizesse?`
 
-**Texto de consentimento a adaptar à política publicada:** Ao enviar, você concorda que a Grapefy utilize os dados informados para responder à sua solicitação de contato. Consulte nossa **Política de Privacidade**.
+**Texto de consentimento a adaptar à política publicada:** Ao enviar, você concorda que a grapeos utilize os dados informados para responder à sua solicitação de contato. Consulte nossa **Política de Privacidade**.
 
 **Botão de envio:** **Solicitar contato**
 
@@ -336,7 +336,7 @@ Preencha as informações abaixo. Nossa equipe entrará em contato para conhecer
 
 Mensagem pré-preenchida no botão:
 
-> Olá! Conheci a Grapefy e quero entender como montar uma equipe autônoma de IA para minha empresa. Podemos conversar?
+> Olá! Conheci a grapeos e quero entender como montar uma equipe autônoma de IA para minha empresa. Podemos conversar?
 
 **Configuração pendente:** inserir número oficial e URL do WhatsApp. Não foi definido nenhum contato nesta etapa.
 
@@ -344,7 +344,7 @@ Mensagem pré-preenchida no botão:
 
 ## 16. Rodapé
 
-**Grapefy**  
+**grapeos**  
 Equipes autônomas de IA para ampliar a capacidade da sua empresa.
 
 **Links:** Solução · Como funciona · Segurança · Fale conosco · Política de Privacidade · Termos de Uso
@@ -355,15 +355,15 @@ Equipes autônomas de IA para ampliar a capacidade da sua empresa.
 
 ## 17. SEO e compartilhamento
 
-**Title tag:** Grapefy | Equipes Autônomas de IA para Empresas
+**Title tag:** grapeos | Equipes Autônomas de IA para Empresas
 
-**Meta description:** Amplie a produtividade da sua empresa com equipes autônomas de IA. Ambiente preparado, agentes especializados, segurança e suporte. Conheça a Grapefy.
+**Meta description:** Amplie a produtividade da sua empresa com equipes autônomas de IA. Ambiente preparado, agentes especializados, segurança e suporte. Conheça a grapeos.
 
 **H1:** Multiplique a produtividade da sua empresa com equipes autônomas de IA.
 
 **Expressões prioritárias (uso natural):** equipes autônomas de IA; agentes de IA para empresas; equipes de inteligência artificial; automação de processos com IA; produtividade empresarial com IA.
 
-**Compartilhamento:** utilizar a logo e a identidade oficial do Grapefy em uma imagem social própria. Não anunciar percentuais de ganho sem evidências.
+**Compartilhamento:** utilizar a logo e a identidade oficial do grapeos em uma imagem social própria. Não anunciar percentuais de ganho sem evidências.
 
 ---
 
@@ -407,8 +407,8 @@ Uma equipe de IA pronta para transformar objetivos em trabalho realizado.
 - **Promessa central:** aumentar produtividade e capacidade operacional por meio de equipes autônomas de IA.
 - **Mensagem secundária:** ambiente preparado, segurança e suporte tornam a adoção mais simples.
 - **Conceito visual:** colaboração entre agentes e fluxos de trabalho reais — não apenas robôs conversando.
-- **Hierarquia editorial:** títulos curtos em Poppins; textos explicativos em Inter; destaques na identidade roxa do Grapefy.
-- **Cores oficiais:** Roxo Grapefy `#7C4DFF`; roxo escuro `#5B2EE6`; lilás `#A78BFA`; grafite `#1F1F29`; branco `#FFFFFF`.
+- **Hierarquia editorial:** títulos curtos em Poppins; textos explicativos em Inter; destaques na identidade roxa do grapeos.
+- **Cores oficiais:** Roxo grapeos `#7C4DFF`; roxo escuro `#5B2EE6`; lilás `#A78BFA`; grafite `#1F1F29`; branco `#FFFFFF`.
 - **Conversão:** dar destaque ao botão de WhatsApp e manter o formulário como alternativa permanente, especialmente para visitantes que prefiram ser contatados depois.
 
 **Regra editorial:** manter exemplos hipotéticos como *ilustrações*, jamais como resultados comprovados; evitar alegações absolutas de segurança, autonomia, redução de custos ou ganhos de produtividade sem evidência.

@@ -344,7 +344,7 @@ if (productivityChartContainer) {
 }
 
 const cookieBanner = document.querySelector('.cookie-banner');
-const cookieConsentKey = 'grapefy-cookie-consent';
+const cookieConsentKey = 'grapeos-cookie-consent';
 
 if (cookieBanner) {
   try {
@@ -370,7 +370,7 @@ form.addEventListener('submit', (event) => {
   event.preventDefault();
   const data = new FormData(form);
   const message = [
-    'Olá! Conheci a Grapefy e quero montar uma equipe autônoma de IA para minha empresa.',
+    'Olá! Conheci a Grapeos e quero montar uma equipe autônoma de IA para minha empresa.',
     '',
     `*Nome:* ${data.get('nome')}`,
     `*Empresa:* ${data.get('empresa')}`,

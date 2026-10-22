@@ -1,6 +1,6 @@
-# Grapefy — Landing Page
+# grapeos — Landing Page
 
-Este repositório reúne as definições de conteúdo, identidade visual, layout e ativos de marca para construir a landing page da **Grapefy**. A página deve apresentar equipes autônomas de IA para empresas e converter visitantes em conversas pelo WhatsApp ou solicitações enviadas pelo formulário.
+Este repositório reúne as definições de conteúdo, identidade visual, layout e ativos de marca para construir a landing page da **grapeos**. A página deve apresentar equipes autônomas de IA para empresas e converter visitantes em conversas pelo WhatsApp ou solicitações enviadas pelo formulário.
 
 > **Estado atual:** o repositório ainda não contém código ou configuração de framework. Os arquivos presentes são as referências que devem orientar a implementação.
 
@@ -10,9 +10,9 @@ Siga esta ordem ao construir a página. Em caso de conflito, o arquivo de maior 
 
 | Prioridade | Arquivo | Papel na landing page |
 |---:|---|---|
-| 1 | [`IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md`](./IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md) | Fonte de verdade da marca: cores, tipografia, logo, componentes, responsividade e acessibilidade. |
-| 2 | [`COPY_LANDING_PAGE_GRAPEFY.md`](./COPY_LANDING_PAGE_GRAPEFY.md) | Fonte de verdade do conteúdo: proposta de valor, textos, CTAs, FAQ, formulário, SEO e pendências comerciais. |
-| 3 | [`LAYOUT_LANDING_PAGE_GRAPEFY_REFERENCIA_THRAD.md`](./LAYOUT_LANDING_PAGE_GRAPEFY_REFERENCIA_THRAD.md) | Arquitetura de informação, ordem das seções, comportamento dos componentes e direção de layout. |
+| 1 | [`IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md`](./IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md) | Fonte de verdade da marca: cores, tipografia, logo, componentes, responsividade e acessibilidade. |
+| 2 | [`COPY_LANDING_PAGE_GRAPEOS.md`](./COPY_LANDING_PAGE_GRAPEOS.md) | Fonte de verdade do conteúdo: proposta de valor, textos, CTAs, FAQ, formulário, SEO e pendências comerciais. |
+| 3 | [`LAYOUT_LANDING_PAGE_GRAPEOS_REFERENCIA_THRAD.md`](./LAYOUT_LANDING_PAGE_GRAPEOS_REFERENCIA_THRAD.md) | Arquitetura de informação, ordem das seções, comportamento dos componentes e direção de layout. |
 | 4 | Ativos `.png` | Materiais visuais oficiais ou de referência usados conforme a finalidade indicada abaixo. |
 
 ## Mapa completo dos arquivos atuais
@@ -21,16 +21,16 @@ Siga esta ordem ao construir a página. Em caso de conflito, o arquivo de maior 
 
 | Arquivo | Importância | Uso na implementação |
 |---|---|---|
-| [`IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md`](./IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md) | **Crítica** | Implementar os tokens oficiais: roxo `#7C4DFF`, roxo escuro `#5B2EE6`, lilás `#A78BFA`, grafite `#1F1F29` e branco `#FFFFFF`; usar Poppins em títulos e Inter em textos; preservar o logo original; seguir as regras de contraste, grid, breakpoints e WCAG 2.2 AA. |
-| [`COPY_LANDING_PAGE_GRAPEFY.md`](./COPY_LANDING_PAGE_GRAPEFY.md) | **Crítica** | Fonte dos textos aprovados para navegação, hero, dor, solução, áreas, benefícios, implantação, segurança, diferenciais, cenários, contratação, FAQ, formulário, rodapé e metadados SEO. Não inventar métricas, cases, promessas ou informações comerciais. |
-| [`LAYOUT_LANDING_PAGE_GRAPEFY_REFERENCIA_THRAD.md`](./LAYOUT_LANDING_PAGE_GRAPEFY_REFERENCIA_THRAD.md) | **Alta** | Traduz a copy em uma página: header, hero, painel de orquestração de agentes, seções, tabs, timeline, accordion, formulário e rodapé. A referência Thrad orienta ritmo e estrutura — nunca copiar seus assets, textos ou interface literalmente. |
-| [`Guia de Identidade Visual Grapefy.png`](./Guia%20de%20Identidade%20Visual%20Grapefy.png) | **Média** | Prancha visual que confirma logo, símbolo, paleta, tipografias e boas práticas. Serve para conferência rápida; as regras implementáveis e completas estão no documento de identidade visual. |
+| [`IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md`](./IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md) | **Crítica** | Implementar os tokens oficiais: roxo `#7C4DFF`, roxo escuro `#5B2EE6`, lilás `#A78BFA`, grafite `#1F1F29` e branco `#FFFFFF`; usar Poppins em títulos e Inter em textos; preservar o logo original; seguir as regras de contraste, grid, breakpoints e WCAG 2.2 AA. |
+| [`COPY_LANDING_PAGE_GRAPEOS.md`](./COPY_LANDING_PAGE_GRAPEOS.md) | **Crítica** | Fonte dos textos aprovados para navegação, hero, dor, solução, áreas, benefícios, implantação, segurança, diferenciais, cenários, contratação, FAQ, formulário, rodapé e metadados SEO. Não inventar métricas, cases, promessas ou informações comerciais. |
+| [`LAYOUT_LANDING_PAGE_GRAPEOS_REFERENCIA_THRAD.md`](./LAYOUT_LANDING_PAGE_GRAPEOS_REFERENCIA_THRAD.md) | **Alta** | Traduz a copy em uma página: header, hero, painel de orquestração de agentes, seções, tabs, timeline, accordion, formulário e rodapé. A referência Thrad orienta ritmo e estrutura — nunca copiar seus assets, textos ou interface literalmente. |
+| [`Guia de Identidade Visual Grapeos.png`](./Guia%20de%20Identidade%20Visual%20Grapeos.png) | **Média** | Prancha visual que confirma logo, símbolo, paleta, tipografias e boas práticas. Serve para conferência rápida; as regras implementáveis e completas estão no documento de identidade visual. |
 
 ### Ativos de marca e referência
 
 | Arquivo | Dimensões | Importância | Uso permitido/recomendado |
 |---|---:|---|---|
-| [`logo-transparante.png`](./logo-transparante.png) | 2048 × 768 | **Alta** | Versão horizontal roxa da marca em fundo transparente. Prioridade para aplicações em fundos escuros ou quando a transparência for necessária; validar o contraste final antes do uso. |
+| [`logo-transparente.png`](./logo-transparente.png) | 1983 × 793 | **Alta** | Versão horizontal roxa da marca em fundo transparente. Prioridade para aplicações em fundos escuros ou quando a transparência for necessária; validar o contraste final antes do uso. |
 | [`logo.png`](./logo.png) | 1448 × 1086 | **Alta** | Logotipo horizontal aplicado sobre fundo branco. Usar como referência ou fallback em fundos claros; não é o ativo mais adequado quando for necessário transparência. |
 | [`simbolo.png`](./simbolo.png) | 427 × 427 | **Alta** | Símbolo isolado, com transparência. Usar para favicon, ícone de aplicação, marcação visual e elementos pequenos — sem redesenhar, deformar ou adicionar efeitos ao arquivo oficial. |
 | [`mockup.png`](./mockup.png) | 1448 × 1086 | **Média** | Referência de aplicações da marca e direção estética. **Não usar como screenshot de produto, prova social ou demonstração funcional**: contém conceitos e métricas ilustrativas. Pode orientar a criação de visuais originais da landing page. |
@@ -40,11 +40,11 @@ Siga esta ordem ao construir a página. Em caso de conflito, o arquivo de maior 
 ```text
 .
 ├── README.md
-├── COPY_LANDING_PAGE_GRAPEFY.md
-├── IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md
-├── LAYOUT_LANDING_PAGE_GRAPEFY_REFERENCIA_THRAD.md
-├── Guia de Identidade Visual Grapefy.png
-├── logo-transparante.png
+├── COPY_LANDING_PAGE_GRAPEOS.md
+├── IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md
+├── LAYOUT_LANDING_PAGE_GRAPEOS_REFERENCIA_THRAD.md
+├── Guia de Identidade Visual Grapeos.png
+├── logo-transparente.png
 ├── logo.png
 ├── simbolo.png
 └── mockup.png
@@ -71,7 +71,7 @@ Siga esta ordem ao construir a página. Em caso de conflito, o arquivo de maior 
 
 ## Pendências para publicação
 
-As principais pendências estão detalhadas em [`COPY_LANDING_PAGE_GRAPEFY.md`](./COPY_LANDING_PAGE_GRAPEFY.md). Antes de publicar, confirmar ao menos:
+As principais pendências estão detalhadas em [`COPY_LANDING_PAGE_GRAPEOS.md`](./COPY_LANDING_PAGE_GRAPEOS.md). Antes de publicar, confirmar ao menos:
 
 - número oficial e fluxo de atendimento do WhatsApp;
 - serviço real de recebimento do formulário e mensagens de sucesso/erro;

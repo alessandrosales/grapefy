@@ -1,4 +1,4 @@
-# Grapefy — crawler access policy
+# Grapeos — crawler access policy
 # Allow search engines and AI search/citation crawlers to access public content.
 User-agent: *
 Allow: /

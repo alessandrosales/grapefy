@@ -1,8 +1,8 @@
-# Contratação — Grapefy
+# Contratação — grapeos
 
 ## Modelo de contratação
 
-A Grapefy estrutura cada equipe autônoma de IA de acordo com os processos, objetivos, regras e integrações de cada empresa. Por isso, não há um preço público único.
+A grapeos estrutura cada equipe autônoma de IA de acordo com os processos, objetivos, regras e integrações de cada empresa. Por isso, não há um preço público único.
 
 ### Setup inicial
 
@@ -27,4 +27,4 @@ A proposta personalizada esclarece infraestrutura, consumo de modelos, integraç
 
 ## Contato comercial
 
-Para solicitar uma proposta: [WhatsApp da Grapefy](https://wa.me/5585982395079).
+Para solicitar uma proposta: [WhatsApp da grapeos](https://wa.me/5585982395079).

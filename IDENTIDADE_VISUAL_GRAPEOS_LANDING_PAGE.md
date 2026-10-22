@@ -1,13 +1,13 @@
-# Grapefy — Diretrizes de identidade visual para landing page
+# grapeos — Diretrizes de identidade visual para landing page
 
-> **Documento:** guia visual e de interface para a landing page da Grapefy  
+> **Documento:** guia visual e de interface para a landing page da grapeos  
 > **Versão:** 1.0 · 19/10/2026  
 > **Status:** referência para design e desenvolvimento  
 > **Base:** logotipo, guia de identidade visual e mockups fornecidos pelo projeto
 
 ## 1. Objetivo e escopo
 
-Estabelecer regras consistentes para traduzir a identidade da **Grapefy** em uma landing page moderna, clara, confiável e responsiva.
+Estabelecer regras consistentes para traduzir a identidade da **grapeos** em uma landing page moderna, clara, confiável e responsiva.
 
 Este documento abrange **cores, tipografia, marca, composição, componentes visuais, responsividade e acessibilidade**. Não define a oferta comercial, as funcionalidades reais do produto, os preços nem os textos finais da página. Os conteúdos demonstrativos presentes nos mockups **não devem ser tratados como funcionalidades ou resultados comprovados**.
 
@@ -31,7 +31,7 @@ Este documento abrange **cores, tipografia, marca, composição, componentes vis
 O logotipo é composto por:
 
 1. **Símbolo:** composição geométrica de **seis círculos** que remete a um cacho de uvas, sem folha ou ornamentos.
-2. **Wordmark:** nome **grapefy** em letras minúsculas, com aparência geométrica e arredondada.
+2. **Wordmark:** nome **grapeos** em letras minúsculas, com aparência geométrica e arredondada.
 
 **Versões de referência:**
 
@@ -71,7 +71,7 @@ Esses grafismos devem ser secundários em relação ao conteúdo.
 
 | Cor | Hexadecimal | Papel na landing page |
 |---|---|---|
-| **Roxo Grapefy** | `#7C4DFF` | Identidade, destaque, elementos de marca e ações principais |
+| **Roxo grapeos** | `#7C4DFF` | Identidade, destaque, elementos de marca e ações principais |
 | **Roxo Escuro** | `#5B2EE6` | Hover, links importantes, estados ativos e contrastes fortes |
 | **Lilás de Apoio** | `#A78BFA` | Ilustrações, detalhes, ícones e fundos decorativos |
 | **Preto Grafite** | `#1F1F29` | Títulos, texto principal e bases escuras |
@@ -287,21 +287,21 @@ Os tokens abaixo são um **ponto de partida técnico**. Os valores da paleta pri
 ```css
 :root {
   /* Cores oficiais da marca */
-  --grapefy-purple: #7C4DFF;
-  --grapefy-purple-dark: #5B2EE6;
-  --grapefy-lilac: #A78BFA;
-  --grapefy-graphite: #1F1F29;
-  --grapefy-white: #FFFFFF;
+  --grapeos-purple: #7C4DFF;
+  --grapeos-purple-dark: #5B2EE6;
+  --grapeos-lilac: #A78BFA;
+  --grapeos-graphite: #1F1F29;
+  --grapeos-white: #FFFFFF;
 
   /* Cores auxiliares sugeridas para a interface */
-  --color-bg: var(--grapefy-white);
+  --color-bg: var(--grapeos-white);
   --color-surface-soft: #F8F6FF;
   --color-surface-accent: #F0EAFF;
   --color-border: #E9E4F5;
-  --color-text: var(--grapefy-graphite);
+  --color-text: var(--grapeos-graphite);
   --color-text-muted: #606075;
-  --color-primary: var(--grapefy-purple);
-  --color-primary-hover: var(--grapefy-purple-dark);
+  --color-primary: var(--grapeos-purple);
+  --color-primary-hover: var(--grapeos-purple-dark);
 
   /* Tipografia */
   --font-heading: "Poppins", sans-serif;
@@ -338,15 +338,15 @@ Os nomes e caminhos abaixo são **exemplos de organização**, não caminhos já
 ```text
 assets/
 └── brand/
-    ├── grapefy-logo-horizontal.png
-    ├── grapefy-logo-transparent.png
-    ├── grapefy-symbol.png
+    ├── grapeos-logo-horizontal.png
+    ├── grapeos-logo-transparent.png
+    ├── grapeos-symbol.png
     └── references/
-        ├── grapefy-brand-guidelines.png
-        └── grapefy-brand-mockups.png
+        ├── grapeos-brand-guidelines.png
+        └── grapeos-brand-mockups.png
 
 docs/
-└── IDENTIDADE_VISUAL_GRAPEFY_LANDING_PAGE.md
+└── IDENTIDADE_VISUAL_GRAPEOS_LANDING_PAGE.md
 ```
 
 Caso sejam disponibilizados arquivos vetoriais oficiais, preferir `*.svg` para uso web e manter os PNGs como alternativas.
@@ -375,7 +375,7 @@ Caso sejam disponibilizados arquivos vetoriais oficiais, preferir `*.svg` para u
 Este guia foi consolidado a partir de quatro materiais fornecidos:
 
 1. Mockup de aplicações da marca e exemplo de página em notebook e celular.
-2. Prancha **“Especificação de Identidade Visual — Grapefy”**, com cores, fontes e boas práticas.
+2. Prancha **“Especificação de Identidade Visual — grapeos”**, com cores, fontes e boas práticas.
 3. Logotipo horizontal roxo com fundo transparente.
 4. Logotipo horizontal roxo aplicado em fundo branco.
 
@@ -385,4 +385,4 @@ Este guia foi consolidado a partir de quatro materiais fornecidos:
 
 **Ainda não definidos:** posicionamento comercial, público-alvo, proposta de valor final, funcionalidades confirmadas, plano de seções, conteúdo, depoimentos, métricas, preços e CTAs definitivos.
 
-> **Diretriz final:** a Grapefy deve parecer uma marca tecnológica acessível e bem estruturada, com clareza de comunicação, aplicação rigorosa de sua identidade e foco em legibilidade e confiança.
+> **Diretriz final:** a grapeos deve parecer uma marca tecnológica acessível e bem estruturada, com clareza de comunicação, aplicação rigorosa de sua identidade e foco em legibilidade e confiança.
